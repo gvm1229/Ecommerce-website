@@ -19,5 +19,5 @@ Original repository:
 https://github.com/Heavenly23/Ecommerce-website
 
 Collaborated with:
-Merry Mekonnen @ https://github.com/Heavenly23
-Muhammad Bilal @ https://github.com/Mu-Bilal
+* Merry Mekonnen @ https://github.com/Heavenly23
+* Muhammad Bilal @ https://github.com/Mu-Bilal
