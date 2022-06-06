@@ -13,7 +13,7 @@ Technologies used:
 * JavaScript
 * jQuery
 * PHP
-* mySQL
+* MySQL
 
 Original repository:
 https://github.com/Heavenly23/Ecommerce-website
