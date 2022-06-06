@@ -5,7 +5,7 @@ A simple e-commerce website where products can be bought and sold.
 Key features:
 
 * Add, view, edit, delete product listings (Seller)
-* Add, view, edit, delete, and check-out cart items (Buyer)
+* Add, view, edit, search, delete, and check-out cart items (Buyer)
 
 Technologies used:
 * HTML
